@@ -26,6 +26,7 @@
 		<tag/>
 		<url/>
 	</scm>
+<!--		Deploy-->
 		<properties>
 			<maven.compiler.source>17</maven.compiler.source>  <!-- Hoặc 22 nếu bạn muốn -->
 			<maven.compiler.target>17</maven.compiler.target>  <!-- Hoặc 22 nếu bạn muốn -->
